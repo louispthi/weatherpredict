@@ -1,3 +1,5 @@
 /weather_data_montreal.csv
 .ipynb_checkpoints
 .DS_Store
+/weather_data_lin_reg.csv
+/weather_data_initial_clean.csv
