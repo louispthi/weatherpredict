@@ -69,7 +69,7 @@ Our models did better than the 'naive model', where we simply predict that the t
 We obtained the following: 
 
  - Explained Variance: 0.91
- - Mean Absolute Error: 2.56 degrees celsius
+ - Mean Absolute Error: 2.55 degrees celsius
  - Median Absolute Error: 1.93 degrees celsius
 
 There was no significant difference between Ridge regression and linear regression, probably 
