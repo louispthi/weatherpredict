@@ -45,7 +45,7 @@ The explanation for the weather condition id and icon id can be found [here](htt
 
 We have the following files. 
 
-	* cleaning_datas.ipynb : perform initial cleaning of the datas that will be used in our projects. 
+* cleaning_datas.ipynb : perform initial cleaning of the datas that will be used in our projects. 
 
 ## Project 1: Linear Regression model to predict temperatures
 
@@ -59,8 +59,8 @@ We fit a linear regression model and a Ridge regression model.
 
 We have the following files. 
 
-	* cleaning_datas_lin_reg.ipynb : perform data cleaning to prepare for a linear regression model;
-	* weather_lin_reg_model.ipynb : create linear regression models and analyse the datas. 
+* cleaning_datas_lin_reg.ipynb : perform data cleaning to prepare for a linear regression model;
+* weather_lin_reg_model.ipynb : create linear regression models and analyse the datas. 
 	
 ### Conclusion 
 
