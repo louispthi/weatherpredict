@@ -78,5 +78,4 @@ We obtained the following:
  - Mean Absolute Error: 2.55 degrees celsius
  - Median Absolute Error: 1.93 degrees celsius
 
-There was no significant difference between Ridge regression and linear regression, probably 
-in part due to the fact that we removed independant parameters with high correlation. 
+There was no significant difference between Lasso regression, Ridge regression and linear regression. This is surprising because there is a high correlation between some variables, so we would have expected to see a higher alpha parameter. We will need further analysis.
