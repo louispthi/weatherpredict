@@ -1,6 +1,6 @@
 # Weatherpredict
 
-Weatherpredict is a machine learning project whose goal is to predict various weather datas. 
+Weatherpredict is a machine learning project whose goal is to predict various weather data. 
 
 The project was inspired by a series of three articles by Adam McQuistan.
 
@@ -10,8 +10,8 @@ The data set is different.
 
 ### Data set 
 
-We obtained historical weather datas for Montreal from OpenWeatherMap. 
-The datas are hourly information from January 1st, 1979 to July 31st, 2020. 
+We obtained historical weather data for Montreal from OpenWeatherMap. 
+The data contains hourly information from January 1st, 1979 to July 31st, 2020. 
 
 The collected features are: 
 
@@ -51,13 +51,13 @@ The explanation for the weather condition id and icon id can be found [here](htt
 
 We have the following files. 
 
-* cleaning_datas.ipynb : perform initial cleaning of the datas that will be used in our projects. 
+* cleaning_datas.ipynb : perform initial cleaning of the data that will be used in our projects. 
 
 ## Project 1: Linear Regression model to predict temperatures
 
 The goal is to use linear regression to predict the temperature on a given day.
 
-We resample the hourly datas into hourly datas. 
+We resample the hourly data into hourly data. 
 
 We fit a linear regression model, a Ridge regression model and a Lasso regression model. The last two models were used more as educational purposes, as it was not expected that they would improve linear regression, since we had removed collinearity problems in the data cleaning and there was a clear linear trend between our target and feature variables.  
 
@@ -66,7 +66,7 @@ We fit a linear regression model, a Ridge regression model and a Lasso regressio
 We have the following files. 
 
 * cleaning_datas_lin_reg.ipynb : perform data cleaning to prepare for a linear regression model;
-* weather_lin_reg_model.ipynb : create linear regression models and analyse the datas. 
+* weather_lin_reg_model.ipynb : create linear regression models and analyse the data. 
 	
 ### Conclusion 
 
