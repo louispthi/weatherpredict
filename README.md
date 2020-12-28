@@ -112,7 +112,8 @@ lstm_23 (LSTM)               (None, 96, 96)            110976
 dropout_23 (Dropout)         (None, 96, 96)            0         
 lstm_24 (LSTM)               (None, 96)                74112     
 dropout_24 (Dropout)         (None, 96)                0         
-dense_7 (Dense)              (None, 36)                3492      =================================================================
+dense_7 (Dense)              (None, 36)                3492      
+=================================================================
 Total params: 263,844
 Trainable params: 263,844
 Non-trainable params: 0
