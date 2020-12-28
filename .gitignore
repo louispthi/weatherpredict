@@ -6,3 +6,4 @@ data_cleaning/weather_data_initial_clean.csv
 /NOTE.md
 nn/lstm_model.h5
 nn/lstm_pred.h5
+

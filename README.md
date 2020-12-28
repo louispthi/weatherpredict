@@ -53,6 +53,7 @@ We have the following files.
 
 * cleaning_datas.ipynb : perform initial cleaning of the data that will be used in our projects. 
 
+<<<<<<< HEAD
 ## Project 1: Linear Regression model to predict average daily temperatures
 
 The goal is to use linear regression to predict the temperature on a given day using the three previous days.
@@ -112,7 +113,8 @@ lstm_23 (LSTM)               (None, 96, 96)            110976
 dropout_23 (Dropout)         (None, 96, 96)            0         
 lstm_24 (LSTM)               (None, 96)                74112     
 dropout_24 (Dropout)         (None, 96)                0         
-dense_7 (Dense)              (None, 36)                3492      =================================================================
+dense_7 (Dense)              (None, 36)                3492      
+=================================================================
 Total params: 263,844
 Trainable params: 263,844
 Non-trainable params: 0
@@ -159,4 +161,3 @@ In the future, we would like to use our data to obtain predictions about
 - Predict daily precipitations, humidity and wind speed. 
 
 The end goal is to create our own weather app in Montreal. 
-
