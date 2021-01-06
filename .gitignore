@@ -1,8 +1,8 @@
-data_cleaning/weather_data_montreal.csv
+/data_cleaning/weather_data_montreal.csv
 .ipynb_checkpoints
 .DS_Store
-lin_reg/weather_data_lin_reg.csv
-data_cleaning/weather_data_initial_clean.csv
+/lin_reg/weather_data_lin_reg.csv
+/data_cleaning/weather_data_initial_clean.csv
 /NOTE.md
 nn/lstm_model.h5
 nn/lstm_pred.h5
