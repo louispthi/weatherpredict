@@ -84,7 +84,7 @@ There was no significant difference between Lasso regression, Ridge regression a
 
 ## Project 2: LSTM model to predict the next 36 hours of temperatures
 
-The goal is to use a LSTM RNN model to predict the temperature over a 36-hour period using the four previous days. From readings, this model seems appropriate for time-series predictions. We use the GRU in Google colab to perform computations. We compare our model with a simple linear regression. We were inspired by an article by Rohan Kosandal on Medium: 
+The goal is to use a LSTM RNN model to predict the temperature over a 36-hour period using the four previous days. From readings, this model seems appropriate for time-series predictions. We use the GPU in Google colab to perform computations. We compare our model with a simple linear regression. We were inspired by an article by Rohan Kosandal on Medium: 
 
 https://medium.com/analytics-vidhya/weather-forecasting-with-recurrent-neural-networks-1eaa057d70c3
 
